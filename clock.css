@@ -1,0 +1,15 @@
+body{
+  background-color: lightblue;
+}
+
+#clock{
+  width: 800px;
+  height: 500px;
+  margin: auto;
+  position: relative;
+  padding-top: 70px;
+  text-align: center;
+  color: white;
+  font-size: 100px;
+}
+
